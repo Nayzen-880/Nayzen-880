@@ -1,0 +1,51 @@
+<!DOCTYPE html>
+    
+		    <html lang="en">
+
+					     <head>
+						
+							<meta charset="UTF-8">
+							<title> Skate </title>
+							<link rel="stylesheet" type="text/css" href="t.css">
+						
+						</head>
+
+			
+
+
+
+
+
+								<body>
+										<p id="titre_1">		
+										 La grande Histoire du Skate
+										</p>
+			
+											
+										<p id="para"> 
+										Aux débuts des années 50, le surf est à la source du skateboard. Des surfeurs ont eu l’idée de transférer le feeling de rider des vagues dans les rues pour défier la météo quand le swell n’est pas au top. Avec raison, on appelait ces mecs des « surfeurs d’asphaltes ». Le skateboard se développe sur deux spots emblématiques : la Californie et Hawaii. Ils utilisent alors des petites planches de surfs et des roues faites de métal sans roulement. A la fin des années 50, le skate connait un premier pic. Dans cette période d’après-Guerre, l’économie américaine connait un boom et cela affecte aussi l’économie. En 1959, Roller Derby sort le premier skate avec des innovations techniques. Ainsi, les paramètres pour rouler sont améliorés. Pour cette raison, les skateurs peuvent développer de nouveaux mouvements et tricks.
+										</p>
+										
+					 				
+					 				<img id="img_1" src="Ancetre-du-skate.jpg" width="625" height="400">
+
+					 					<p id="para"> 
+					 					Pendant les années 80, le skate deviens effet de mode éphémère et sport jugé dangereux, la pratique, l'industrie et la presse du skateboard s'effondre au début des années 1980. Aux États-Unis et en Europe, les skateparks publics sont abandonnés puis fermé.
+					 					</p>
+
+					 				<p id="para">
+					 					De nos jour l'histoire du skate a été marquer, par des grande légende du skate board comme Tony Hwak, Rodney Mullen, Tony Alva, ou encore Nyjah Huston  
+					 					
+					 				</p>
+								
+					 				!<iframe id="video_1"  src="videoTonyHawk.mp4" width="650" height="425"></iframe>
+
+					 				<p id="para_1">
+					 				voici une video de Tony Hawk qui fait 900°
+					 				</p>
+								 	
+					 				<img id="img_2"	src="photo_thrasher.jpg" width="400" height="600">
+
+								</body>
+
+     </html>
